@@ -20,4 +20,4 @@ ENV PYTHONUNBUFFERED=1
 EXPOSE 7860
 
 # Chạy ứng dụng
-CMD ["python", "crawldata.py"]
+CMD ["python", "crawlData.py"]
